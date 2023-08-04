@@ -1,0 +1,15 @@
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\bin\Debug\net6.0\aula_poo03.exe
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\bin\Debug\net6.0\aula_poo03.deps.json
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\bin\Debug\net6.0\aula_poo03.runtimeconfig.json
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\bin\Debug\net6.0\aula_poo03.dll
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\bin\Debug\net6.0\aula_poo03.pdb
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.csproj.AssemblyReference.cache
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.AssemblyInfoInputs.cache
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.AssemblyInfo.cs
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.csproj.CoreCompileInputs.cache
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.dll
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\refint\aula_poo03.dll
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.pdb
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\aula_poo03.genruntimeconfig.cache
+C:\temp\c#-orientado-objetos\aula_poo03\aula_poo03\obj\Debug\net6.0\ref\aula_poo03.dll
