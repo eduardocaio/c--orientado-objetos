@@ -1,0 +1,15 @@
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\bin\Debug\net6.0\exercicio_poo12.exe
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\bin\Debug\net6.0\exercicio_poo12.deps.json
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\bin\Debug\net6.0\exercicio_poo12.runtimeconfig.json
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\bin\Debug\net6.0\exercicio_poo12.dll
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\bin\Debug\net6.0\exercicio_poo12.pdb
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.csproj.AssemblyReference.cache
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.AssemblyInfoInputs.cache
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.AssemblyInfo.cs
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.csproj.CoreCompileInputs.cache
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.dll
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\refint\exercicio_poo12.dll
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.pdb
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\exercicio_poo12.genruntimeconfig.cache
+C:\temp\c#-orientado-objetos\exercicio_poo12\exercicio_poo12\obj\Debug\net6.0\ref\exercicio_poo12.dll
